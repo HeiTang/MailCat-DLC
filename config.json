@@ -1,0 +1,125 @@
+[
+    {
+        "name": "PChome",
+        "label_name": "01 線上購物/PChome",
+        "email": [
+            "pchome.com.tw"
+        ]
+    },
+    {
+        "name": "蝦皮購物 Shopee",
+        "label_name": "01 線上購物/蝦皮購物 Shopee",
+        "email": [
+            "shopee.tw",
+            "shopeemobile.com"
+        ]
+    },
+    {
+        "name": "MOMO 購物網",
+        "label_name": "01 線上購物/MOMO 購物網",
+        "email": [
+            "fmt.com.tw"
+        ]
+    },
+    {
+        "name": "Amazon",
+        "label_name": "01 線上購物/Amazon",
+        "email": [
+            "amazon.com"
+        ]
+    },
+    {
+        "name": "松果購物",
+        "label_name": "01 線上購物/松果購物",
+        "email": [
+            "pcone.com.tw"
+        ]
+    },
+    {
+        "name": "生活市集",
+        "label_name": "01 線上購物/生活市集",
+        "email": [
+            "buy123.com.tw"
+        ]
+    },
+    {
+        "name": "樂天市場",
+        "label_name": "01 線上購物/樂天市場",
+        "email": [
+            "rakuten.com.tw"
+        ]
+    },
+    {
+        "name": "台灣高鐵",
+        "label_name": "02 交通外送/台灣高鐵",
+        "email": [
+            "thsrc.com.tw"
+        ]
+    },
+    {
+        "name": "Uber",
+        "label_name": "02 交通外送/Uber & Uber Eats",
+        "email": [
+            "uber.com",
+            "uberegui.com"
+        ]
+    },
+    {
+        "name": "Foodpanda",
+        "label_name": "02 交通外送/Foodpanda",
+        "email": [
+            "foodpanda.com.tw"
+        ]
+    },
+    {
+        "name": "好市多 Costco",
+        "label_name": "03 批發零售/好市多 Costco",
+        "email": [
+            "costco.com.tw"
+        ]
+    },
+    {
+        "name": "宜家家居 IKEA",
+        "label_name": "03 批發零售/宜家家居 IKEA",
+        "email": [
+            "ikea.com.tw"
+        ]
+    },
+
+    {
+        "name": "家樂福 Carrefour",
+        "label_name": "03 批發零售/家樂福 Carrefour",
+        "email": [
+            "questback.com",
+            "mc-carrefour.com.tw"
+        ]
+    },
+    {
+        "name": "博客來",
+        "label_name": "03 批發零售/博客來",
+        "email": [
+            "books.com.tw"
+        ]
+    },
+    {
+        "name": "羅技 Logitech",
+        "label_name": "04 電腦周邊/羅技 Logitech",
+        "email": [
+            "91app.com"
+        ]
+    },
+    {
+        "name": "遠傳電信",
+        "label_name": "05 通訊網路/遠傳電信",
+        "email": [
+            "fetnet.net"
+        ]
+    },
+    {
+        "name": "ShopBack",
+        "label_name": "09 其他/ShopBack",
+        "email": [
+            "shopback.com.tw"
+        ]
+    }
+]
